@@ -1,0 +1,6 @@
+---
+# tasks file for test1
+- name : Install git
+  yum:
+   name: git
+   state: latest
