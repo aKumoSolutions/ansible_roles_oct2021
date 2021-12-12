@@ -1,0 +1,4 @@
+---
+
+# vars file for packages
+packages: ["git", "curl", "wget", "tree"]
