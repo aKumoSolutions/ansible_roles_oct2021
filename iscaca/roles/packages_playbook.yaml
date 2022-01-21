@@ -1,0 +1,6 @@
+---
+- name: Run Packages Role
+  hosts: localhost
+  gather_facts: no
+  roles:
+    - packages
